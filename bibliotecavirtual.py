@@ -20,3 +20,5 @@ class Book:
         self.title = title
         self.author = author
         self.description = description
+        
+        # o que dever ser feito
